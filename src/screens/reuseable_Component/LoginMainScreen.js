@@ -51,8 +51,8 @@ const LoginMainScreen = () => {
     console.log('in google sign in');
     await GoogleSignin.hasPlayServices({ showPlayServicesUpdateDialog: true });
     const res = await GoogleSignin.signIn();
-    console.log('Google sign-in token:', res?.data?.idToken);
-    let idToken =  res?.data?.idToken
+    console.log('Google sign-in token:', res?.idToken);
+    let idToken =  res?.idToken
     // return
 
     if (idToken) {

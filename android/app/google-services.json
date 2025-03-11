@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "616982564207",
+    "firebase_url": "https://goldenlive-ali-default-rtdb.firebaseio.com",
+    "project_id": "goldenlive-ali",
+    "storage_bucket": "goldenlive-ali.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616982564207:android:06c9fee4a1884492426c9a",
+        "android_client_info": {
+          "package_name": "com.GoldenLive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616982564207-ou6e69i2uvf5m12qqpab57p30773p3q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.GoldenLive",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "616982564207-tc3b0bevcrtfpl2ufc4bpl3tpna5cpbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVFjz0JDxgfOU90MZXC3udhIJqhX6cJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616982564207-tc3b0bevcrtfpl2ufc4bpl3tpna5cpbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616982564207:android:25523d7267376ec1426c9a",
+        "android_client_info": {
+          "package_name": "com.banolives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616982564207-bn3iaj7sc4nb5psodi24fvg70h4q7d4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.banolives",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "616982564207-cjok0nn51n93091s9ev7gkclr6fg1hb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.banolives",
+            "certificate_hash": "11c58d3258306d1823675109bafa63189814ab41"
+          }
+        },
+        {
+          "client_id": "616982564207-tc3b0bevcrtfpl2ufc4bpl3tpna5cpbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVFjz0JDxgfOU90MZXC3udhIJqhX6cJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616982564207-tc3b0bevcrtfpl2ufc4bpl3tpna5cpbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
